@@ -1,4 +1,4 @@
-# Cypress Real World App - Testes Automatizados
+# Cypress Hero Demo App - Testes Automatizados
 
 Este projeto contém testes automatizados desenvolvidos como parte do meu aprendizado em automação de testes com Cypress. Os testes são baseados no projeto [Cypress Hero Demo Application](https://github.com/cypress-io/cypress-heroes), uma aplicação que simula cenários de super-heróis e permite interações como criar, editar e excluir heróis. O aplicativo é utilizado para demonstrar o uso de automação de testes com Cypress em diferentes funcionalidades.
 
